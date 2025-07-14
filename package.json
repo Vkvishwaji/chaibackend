@@ -1,0 +1,20 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app deploy chaiaurcode hindi series",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "vikas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
